@@ -16,8 +16,7 @@ pipeline {
         checkout scm
       }
     }
-
-    
+  
     stage('Build and Test') {
       steps {
         sh 'cd ${APP_DIR} && mvn clean package'
