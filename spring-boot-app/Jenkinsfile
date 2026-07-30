@@ -1,6 +1,6 @@
 pipeline {
   agent any
- 
+
   environment {
     APP_DIR = "spring-boot-app"
     MANIFEST_FILE = "spring-boot-app-manifests/deployment.yml"
