@@ -1,4 +1,4 @@
-# Spring Boot Application Module 
+# Spring Boot Application Module
 
 This folder contains the Java Spring Boot application used by the parent `jenkins-java-devsecops-cicd` CI/CD portfolio project.
 
