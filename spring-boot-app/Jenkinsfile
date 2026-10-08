@@ -8,7 +8,7 @@ pipeline {
     SONAR_URL = "http://sonar-server:9000"
     GIT_USER_NAME = "yugandhar99"
     GIT_REPO_NAME = "jenkins-java-devsecops-cicd"
-  } 
+  }
 
   stages {
     stage('Checkout') {
